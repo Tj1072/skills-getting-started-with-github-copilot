@@ -158,10 +158,11 @@ footer {
 }
 
 .participants-list {
-  margin-left: 18px;
+  margin-left: 0;
+  padding-left: 0;
   color: #333;
   font-size: 15px;
-  list-style-type: disc;
+  list-style: none;
 }
 
 .participants-list li {
